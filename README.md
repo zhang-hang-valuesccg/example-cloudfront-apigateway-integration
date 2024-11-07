@@ -1,6 +1,8 @@
 # Welcome to your CDK TypeScript project
 
-This is a blank project for CDK development with TypeScript.
+https://qiita.com/zhang_hang/private/b24a4a75579ca65e0193
+
+This is a example project for limiting access to apigate way while integrating it with cloudfront.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
