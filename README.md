@@ -1,6 +1,6 @@
 # Welcome to your CDK TypeScript project
 
-https://qiita.com/zhang_hang/private/b24a4a75579ca65e0193
+https://qiita.com/zhang_hang/items/b24a4a75579ca65e0193
 
 This is a example project for limiting access to apigate way while integrating it with cloudfront.
 
